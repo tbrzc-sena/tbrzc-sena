@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: Excalifont-Regular;
+  font-style: normal;
+  font-weight: 200 700;
+  font-display: swap;
+  src: url("/public/fonts/Excalifont-Regular.woff2") format("woff2");
+}
